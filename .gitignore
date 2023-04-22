@@ -20,3 +20,6 @@ Firmware/Drivers/CMSIS/Include/mpu_armv8.h
 config.json
 !Software/build
 Software/build/output
+Hardware/kicad/tiny-blackbox-backups/*.zip
+Hardware/kicad/fp-info-cache
+Hardware/kicad-gerber/board/*.zip
